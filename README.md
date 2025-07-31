@@ -154,23 +154,6 @@ Test the `/search` endpoint directly with queries like:
 
 ---
 
-## 📜 License
-
-MIT License
-
----
-
-## 👨‍💻 Developed by
-
-**Awanish Kumar**
-
-## 📌 Connect
-
-* [LinkedIn](https://www.linkedin.com/in/awanish-kumar-0a04831a708/)
-* [GitHub](https://github.com/Awanish-collab)
-
----
-
 ## 🆘 Troubleshooting
 
 | Symptom                        | Solution                                           |
@@ -192,4 +175,9 @@ MIT License (or your preferred licensing)
 ## 👨‍💻 Developed by
 
 **Awanish Kumar**
+
+## 📌 Connect
+
+* [LinkedIn](https://www.linkedin.com/in/awanish-kumar-0a04831a708/)
+* [GitHub](https://github.com/Awanish-collab)
 
