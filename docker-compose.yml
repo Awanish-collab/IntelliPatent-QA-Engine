@@ -1,0 +1,13 @@
+version: "3.9"
+
+services:
+  intellipatent-api:
+    build: .
+    ports:
+      - "8000:8000"
+    volumes:
+      - .:/app
+    environment:
+      - PINECONE_API_KEY=${PINECONE_API_KEY1}
+      - PINECONE_INDEX_NAME=${PINECONE_INDEX_NAME}
+      - GROQ_API_KEY=${GROQ_API_KEY}

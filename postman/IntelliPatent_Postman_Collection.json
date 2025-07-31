@@ -1,0 +1,39 @@
+{
+    "info": {
+        "name": "IntelliPatent Q&A Engine API",
+        "_postman_id": "b8de4b8d-0e12-40ab-bc7c-1d84f9b2c902",
+        "description": "Postman Collection for IntelliPatent Q&A Engine API",
+        "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+    },
+    "item": [
+        {
+            "name": "Search Patent",
+            "request": {
+                "method": "POST",
+                "header": [
+                    {
+                        "key": "Content-Type",
+                        "value": "application/json",
+                        "type": "text"
+                    }
+                ],
+                "body": {
+                    "mode": "raw",
+                    "raw": "{\n    \"query\": \"Summarize a patent about data processors.\"\n}"
+                },
+                "url": {
+                    "raw": "http://localhost:8000/search",
+                    "protocol": "http",
+                    "host": [
+                        "localhost"
+                    ],
+                    "port": "8000",
+                    "path": [
+                        "search"
+                    ]
+                }
+            },
+            "response": []
+        }
+    ]
+}
