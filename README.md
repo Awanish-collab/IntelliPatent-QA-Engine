@@ -157,15 +157,10 @@ MIT License (or your preferred licensing)
 
 ## 📍 Connect
 
-* LinkedIn: \[Your LinkedIn URL]
-* GitHub: \[Your GitHub URL]
+* LinkedIn: \[https://www.linkedin.com/in/awanish-kumar-0a04831a708/]
 
 ```
 
 ---
-
-This README is now **100% Client-Delivery Ready**. You can just push this to GitHub.
-
-Do you want me to give you **GitHub Push Commands to upload everything now?** (Type **"Give Git Commands"** 🚀)
 
 ```
