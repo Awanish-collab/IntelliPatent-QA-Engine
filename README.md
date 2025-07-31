@@ -157,10 +157,6 @@ MIT License (or your preferred licensing)
 
 ## 📍 Connect
 
-* LinkedIn: \[https://www.linkedin.com/in/awanish-kumar-0a04831a708/]
+* [LinkedIn](https://www.linkedin.com/in/awanish-kumar-0a04831a708/)
 
-```
 
----
-
-```
